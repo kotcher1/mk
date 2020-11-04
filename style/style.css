@@ -3,6 +3,16 @@
   src: url("./fonts/Lato-Regular.woff");
 }
 
+@font-face {
+  font-family: 'Lato-Light';
+  src: url("./fonts/LatoLight.woff");
+}
+
+@font-face {
+  font-family: 'Lato-Semibold';
+  src: url("./fonts/Lato-Semibold.woff");
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -224,9 +234,7 @@ a:hover {
 }
 
 .carousel-description {
-  font-family: Lato;
-  font-style: normal;
-  font-weight: 300;
+  font-family: Lato-Light;
   font-size: 15px;
   line-height: 25px;
   color: rgba(0, 0, 0, 0.8);
@@ -347,9 +355,7 @@ a:hover {
 }
 
 .escort-text {
-  font-family: Lato;
-  font-style: normal;
-  font-weight: 300;
+  font-family: Lato-Light;
   font-size: 15px;
   line-height: 25px;
   color: rgba(0, 0, 0, 0.8);
@@ -402,7 +408,7 @@ a:hover {
 }
 
 .direction-link {
-  font-family: Lato;
+  font-family: Lato-Semibold;
   font-style: normal;
   font-weight: 600;
   font-size: 12px;
@@ -476,7 +482,7 @@ a:hover {
 .main-directions-text {
   margin-left: 30px;
   max-width: 770px;
-  font-family: Lato;
+  font-family: Lato-Light;
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
@@ -614,7 +620,7 @@ a:hover {
 }
 
 .slider-card-text {
-  font-family: Lato;
+  font-family: Lato-Light;
   font-style: normal;
   font-weight: 300;
   font-size: 14px;
@@ -626,7 +632,7 @@ a:hover {
 }
 
 .slider-card-link {
-  font-family: Lato;
+  font-family: Lato-Semibold;
   font-style: normal;
   font-weight: 600;
   font-size: 12px;
@@ -726,7 +732,7 @@ a:hover {
 }
 
 .partners-block-text {
-  font-family: Lato;
+  font-family: Lato-Light;
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
@@ -810,7 +816,7 @@ a:hover {
 
 .benifit-text {
   margin-top: 15px;
-  font-family: Lato;
+  font-family: Lato-Light;
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
@@ -938,7 +944,7 @@ a:hover {
 }
 
 .service-link {
-  font-family: Lato;
+  font-family: Lato-Semibold;
   font-style: normal;
   font-weight: 600;
   font-size: 12px;
@@ -959,7 +965,7 @@ a:hover {
 }
 
 .service-text {
-  font-family: Lato;
+  font-family: Lato-Light;
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
@@ -1003,7 +1009,7 @@ a:hover {
 }
 
 .section-text {
-  font-family: Lato;
+  font-family: Lato-Light;
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
@@ -1036,7 +1042,7 @@ a:hover {
 
 .trust-list li {
   min-height: 40px;
-  font-family: Lato;
+  font-family: Lato-Semibold;
   font-style: normal;
   font-weight: 600;
   font-size: 17px;
@@ -1213,7 +1219,7 @@ a:hover {
 
 .consultation-text {
   margin-top: 20px;
-  font-family: Lato;
+  font-family: Lato-Light;
   font-style: normal;
   font-weight: 300;
   font-size: 13px;
@@ -1282,7 +1288,7 @@ a:hover {
 }
 
 .parameter-value {
-  font-family: Lato;
+  font-family: Lato-Light;
   font-style: normal;
   font-weight: 300;
   font-size: 13px;
@@ -1307,7 +1313,7 @@ a:hover {
 
 .additional-pages a {
   max-width: 162px;
-  font-family: Lato;
+  font-family: Lato-Semibold;
   font-style: normal;
   font-weight: 600;
   font-size: 12px;
@@ -1372,7 +1378,7 @@ a:hover {
 }
 
 .location-info, .location-info a {
-  font-family: Lato;
+  font-family: Lato-Light;
   font-style: normal;
   font-weight: 300;
   font-size: 13px;
@@ -1445,7 +1451,7 @@ span.location-info {
 }
 
 .rights-line span {
-  font-family: Lato;
+  font-family: Lato-Light;
   font-style: normal;
   font-weight: 300;
   font-size: 12px;
