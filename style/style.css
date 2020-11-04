@@ -2045,5 +2045,10 @@ span.location-info {
     margin-top: 10px;
   }
 
+  .partners-logo-box img {
+    max-width: 100%;
+    height: auto;
+  }
+
 
 }
