@@ -1,1 +1,9 @@
-https://kotcher1.github.io/MK/
+# MK (Правовые технологии)
+
+Лендинг-визитка (включает в себя 2 слайдера-баннера и 1 карусель с отзывами).
+
+Технологии: HTML, CSS, JS, slick (для реализации слайдеров).
+
+Ссылка на проект: https://kotcher1.github.io/MK/
+
+![image](https://github.com/kotcher1/MK/assets/43149448/bc01d5b6-c202-442f-82ca-e8c277ab0526)
